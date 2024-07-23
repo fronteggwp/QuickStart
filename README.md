@@ -7,7 +7,7 @@
 
 ## Шаг 1: Создание Dockerfile
 
-1. **Откройте терминал в Docker Desktop и перейдите в директорию вашего проекта:**
+1. **Откройте терминал в [Docker Desktop](https://www.docker.com/products/docker-desktop/) и перейдите в директорию вашего проекта:**
 
     ```sh
     cd путь_к_вашей_папке\ubuntu-xfce-vnc
